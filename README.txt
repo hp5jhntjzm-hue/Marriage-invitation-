@@ -1,1 +1,0 @@
-Place hero.jpg, gallery1-6.jpg here.
